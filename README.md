@@ -1,4 +1,3 @@
-# scottneidig
 <h1>Personal Website</h1>
 <h2>Current stack</h2>
 <ul>
