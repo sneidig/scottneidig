@@ -44,7 +44,7 @@ if($num>0){
 	    "headline" => $headline,
             "text" => $text,
             "tag" => $tag,
-            "asset" => $asset,
+            "asset" => array("media" => $asset),
             "startDate" => $start_date,
             "endDate" => $end_date
         );
