@@ -1,6 +1,6 @@
 <h1>Personal Website</h1>
 
-<p>A simple REST API built with object oriented PHP gathers a list of projects from a MySQL database. The API endpoint /projects  is used as the datasource for timeline.js.</p>
+<p>A simple REST API built with PHP objects gathers a list of projects from a MySQL database. The API endpoint /projects  is used as the datasource for timeline.js.</p>
 
 <p>Users can navigate around within the timeline to browse web development projects featured in my portfolio.</p>
 
