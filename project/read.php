@@ -57,7 +57,7 @@ if($num>0){
         "headline" => "Scott Neidig&#39;s Web Development Porfolio",
 	"type" => "default",
 	"text" => "View: Timeline<br><br>Scroll horizontally to the left to view past projects sequentially in reverse.<br>Use the timeline navigator below to jump from project to project or focus on specific categories.",
-	"startDate" => "2017,9,31",
+	"startDate" => "2019,3,9",
 	"date" => "[]"	
     );
 
